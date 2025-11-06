@@ -4,11 +4,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/KaliAji/OsTicket_Setup-Testing)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-cnfig)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifeccle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakocc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmdakorcc/azure-network-protocols)
+- <b>VPN examples</b>
+  - [VPN setup](https://github.com/KaliAji/VPN-Guide)
  
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
