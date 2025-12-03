@@ -4,6 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/KaliAji/OsTicket_Setup-Testing)
+  - [osTicket: Examples](https://github.com/KaliAji/OsTicket_Examples)
 - <b>VPN examples</b>
   - [VPN setup](https://github.com/KaliAji/VPN-Guide)
  
