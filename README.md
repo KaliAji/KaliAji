@@ -15,7 +15,7 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="middle" alt="Kalid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="middle" alt="Kalid | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/4dcfd9d8-67fb-48d6-9349-140fc0769ee3" />][linkedin]
 
 
 
